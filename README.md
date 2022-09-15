@@ -1,7 +1,7 @@
 # Restro Cafe App in React & Redux + Django
 
 
-This is an online food menu service for Restro Cafe. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
+This is an online food menu service for Restro Cafe. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boom!
 
 
 ![image](https://user-images.githubusercontent.com/96680710/175112683-10f802ab-c1e6-445c-8f13-4a37cd67abe4.png)
@@ -9,7 +9,7 @@ This is an online food menu service for Restro Cafe. When you visit the restaura
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses a Heroku free plan, so it may take time to load the pages.**
 
 Check out [FRONTEND LIVE DEMO](https://frontend-restrocafe.herokuapp.com/) here!!
 
